@@ -1,5 +1,5 @@
 # workwechat
-企业微信服务端API，[相关文档](https://developer.work.weixin.qq.com/document/path/90664)
+[企业微信服务端API](https://developer.work.weixin.qq.com/document/path/90664)的简单封装
 
 ### Documentation for API Endpoints
 
