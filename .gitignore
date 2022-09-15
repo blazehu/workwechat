@@ -1,0 +1,30 @@
+# go
+server/vendor/
+server/config/config.json
+server/log/*
+!server/log/server.log.example
+server/resource/image/icon/*.png
+!server/resource/image/icon/default.png
+server/resource/plist/*.plist
+!server/resource/plist/example.plist
+server/upload.sh
+
+# js
+web/.idea
+web/node_modules/
+web/dist/
+web/npm-debug.log*
+web/yarn-debug.log*
+web/yarn-error.log*
+
+# plugins
+
+
+# Editor directories and files
+.DS_Store
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
