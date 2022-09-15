@@ -1,6 +1,7 @@
 # workwechat
 [企业微信服务端API](https://developer.work.weixin.qq.com/document/path/90664)的简单封装
 
+
 ### Documentation for API Endpoints
 
 | Func           | HTTP request          | Description     |
@@ -12,6 +13,7 @@
 | ListUser       | GET /user/simplelist  | 获取部门成员          |
 | ListDepartment | GET /department/list  | 获取部门列表          |
 | Message        | GET /message/send     | 发送应用消息          |
+
 
 ## Test
 ```shell
